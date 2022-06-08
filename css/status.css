@@ -1,0 +1,8 @@
+﻿.status {
+    height: 200px;
+    position: absolute;
+    right: 50px;
+    background-color: white;
+    opacity: 0.8;
+    padding: 10px;
+}
